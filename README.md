@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm currently learning java.
+* How to reach me: 1148624760@qq.com.
 <!--
 **1148624760/1148624760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
